@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "apifinal",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ec49367b-388e-4878-9ce0-dce8c7fd206e",
+      "database_name": "silent-morning-f494-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
